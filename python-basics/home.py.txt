@@ -1,0 +1,20 @@
+# Example 1: Basic Hello World
+print("Hello, Python World!")
+
+# Example 2: Using a variable
+message = "Welcome to Python!"
+print(message)
+
+# Example 3: User input
+name = input("Enter your name: ")
+print("Hello, " + name + "!")
+
+# Example 4: Simple calculation
+x = 10
+y = 5
+print("Sum:", x + y)
+
+# Example 5: Multiple print statements
+print("Python Basics")
+print("Learn Python with W3Schools")
+print("This is the HOME topic")
